@@ -1,8 +1,8 @@
-##Rocketseat - Ignite React JS
+## Rocketseat Ignite React JS
 
-###Chapter 1 Challenge
+### Chapter 1 Challenge
 
-###Simple to-do list using state manipulation.
+### Simple to-do list using state manipulation.
 
 - Basic app to add and remove todo tasks in a list
   Functions:
@@ -11,9 +11,9 @@
 - Remove a task
 - Check a task
 
-###Desafio 1º cap&iacute;tulo
+### Desafio 1º cap&iacute;tulo
 
-###Lista de atividades a fazer, utilizando manipulação do estado.
+### Lista de atividades a fazer, utilizando manipulação do estado.
 
 - Aplicativo que permite adicionar e remover tarefas em uma lista.
   Fun&ccedil;&otilde;es:
